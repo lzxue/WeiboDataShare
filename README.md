@@ -1,6 +1,9 @@
 > 新浪微博签到POI数据通过新浪微博开放平台API获取数据获取与2014年11月
+
 接口地址为：http://open.weibo.com/wiki/2/place/nearby/pois
+
 数据中得城市代码对应表：http://open.weibo.com/wiki/Location/citycode
+
 数据可视化成果地址：http://www.thinkgis.cn/public/sina/
 
 ### 样例数据
